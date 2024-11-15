@@ -134,7 +134,7 @@ function updateCartTotal() {
     let productsPriceInINR = productsPrice;
 
     // Calculate GST
-    let gst = productsPriceInINR * 0.18;
+    let gst = productsPriceInINR * 0.12;
 
     // Final Price
     let finalPrice = productsPriceInINR + gst; // No delivery charges as it's free
