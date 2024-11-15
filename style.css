@@ -421,11 +421,18 @@ html {
 } */
 
 #cart-count {
-    background-color: red;
-    color: black;
-    font-weight: 400;
-    padding: 2px 8px;
+    background-color: black;
+    color: white;
+    font-weight: 800;
+    padding: 6px;
+    font-size: 20px;
     border-radius: 50%;
+    border: 2px solid white;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px; /* adjust to control circle size */
+    height: 28px;
 }
 
 #total-price{
