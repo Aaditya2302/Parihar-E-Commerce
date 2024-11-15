@@ -81,7 +81,7 @@ nav {
     transform: translate(-50%, -50%);
     width: 0;
     height: 0;
-    background-color: #0d9806; /* Oval background color */
+    background-color: #00762C; /* Oval background color */
     border-radius: 50px;
     transition: width 0.3s ease, height 0.3s ease;
     z-index: -1; /* Place oval behind text */
