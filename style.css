@@ -299,7 +299,7 @@ main {
 }
 
 .product-details button:hover {
-    background-color: green;
+    background-color: #00762C;
 }
 .product-details .cart-button{
     background-color: #2C3E50;
@@ -459,7 +459,7 @@ html {
 }
 
 .card-button:hover {
-    background-color: green;
+    background-color: #00762C;
 }
 .cart-details{
     color: black;
