@@ -305,7 +305,7 @@ main {
     background-color: #2C3E50;
     position: absolute;
     bottom: 10px; /* Position it slightly above the bottom */
-    left: 39.5%;
+    left: 19.5%;
     transform: translateX(-50%);
     color: #fff;
     border: none;
@@ -501,12 +501,6 @@ html {
     align-items: center; /* Center-aligns the icons */
     justify-content: space-between; /* Adjusts spacing between items */
 }
-.subscription-button{
-    background-color: #2C3E50;
-    position: absolute;
-    bottom: 10px;
-    right: 55%;
-}
 .minus-btn, .plus-btn{
     background-color: #2C3E50;
     display: flex;
@@ -523,7 +517,7 @@ html {
     gap: 5px; /* Adjust space between buttons */
     position: absolute;
     bottom: 4%;
-    left: 60%;
+    left: 38%;
 }
 
 .quantity-control button {
