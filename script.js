@@ -22,7 +22,6 @@ function renderProducts() {
                 <h3>${product.name}</h3>
                 <div class="desc box">${product.description}</div>
                 <p class="price">₹${product.price.toFixed(2)}</p>
-                <button class="subscription-button">Subscription</button>
                 <button class="cart-button" onclick="addToCart(${product.id})">Add to Cart</button>
             </div>
         `;
